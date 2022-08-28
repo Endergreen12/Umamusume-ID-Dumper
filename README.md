@@ -1,6 +1,8 @@
 # text_dumper
 ウマ娘のキャラID、衣装ID、ライブIDそしてそれらに対応する名前が書いてあるテキストファイルを生成します。
 
+GEEKiDoSさんのumamusume-localifyというリポジトリの中にあったtext_dumperを改造させていただきました。
+
 ## 生成するファイル
 1. キャラIDと名前
 
