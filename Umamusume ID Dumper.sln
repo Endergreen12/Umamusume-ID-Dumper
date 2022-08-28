@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "text_dumper", "text_dumper.csproj", "{811EC3A0-794C-4B64-B6EB-FCDD381A9D96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Umamusume ID Dumper", "Umamusume ID Dumper.csproj", "{811EC3A0-794C-4B64-B6EB-FCDD381A9D96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
